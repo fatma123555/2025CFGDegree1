@@ -3,7 +3,7 @@
 Welcome! 👋  
 This repository contains the **content, code examples, and resources** I’ll be using while teaching during the **Code First Girls Degree Bootcamp**.  
 
-It’s designed as a **learning hub** for students — you’ll find lesson notes, coding exercises, project starters, and useful reference material here.
+It’s designed as a **learning hub** for students — you’ll find lesson notes, coding exercises, and useful reference material here.
 
 ---
 
